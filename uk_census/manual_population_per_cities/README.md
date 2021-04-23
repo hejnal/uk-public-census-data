@@ -1,0 +1,2 @@
+## How to get the manual population data?
+To create manual list of cities with its population I used a combination of the report from the tool showing cities with non-matching entry from the census data and the very weird TRP, then using Google Sheets I generated a list of wikipedia pages, and I manually got the population data (around 100 cities). For some conflicting names I always used Google Maps which returns generally the biggest and best matching item (and often has a wikipedia link there).
